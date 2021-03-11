@@ -1,0 +1,21 @@
+@font-face{
+  font-family: 'poppins';
+  src: url('../fonts/poppinsR.ttf');
+}
+@font-face{
+  font-family: 'poppinsB';
+  src: url('../fonts/poppinsB.ttf');
+}
+@font-face{
+  font-family: 'poppinsE';
+  src: url('../fonts/poppinsE.ttf');
+}
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "poppins", sans-serif;
+}
+h1, h2, h3, h4, h5, h6{
+  font-family: "poppinsE", sans-serif;
+}
